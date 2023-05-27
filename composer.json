@@ -1,0 +1,7 @@
+{
+    "name": "my-project/my-package",
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "mongodb/mongodb": "^1.13.1"
+    }
+}
